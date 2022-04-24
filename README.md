@@ -12,19 +12,20 @@ Home page of my website(shoping website).
 ![azur](https://user-images.githubusercontent.com/83448942/164960933-d4889205-9446-47c9-b338-1fd6bc2c69b0.png)
 
 
-some of image of my project while doing project:-
+# Some of image of my project while doing project:-
 
 
 ![azur2](https://user-images.githubusercontent.com/83448942/164961184-0a3a8a61-70ee-45f3-aa06-63912b4b1aa7.png)
-![azur3](https://user-images.githubusercontent.com/83448942/164961200-a4a1a138-1584-46be-94c2-d38a501d5def.png)
-![azur4](https://user-images.githubusercontent.com/83448942/164961220-736aaef2-e691-4575-bed5-8d1afe74ccff.png)
 
-deploy project 
+
+# Deploy project 
+
 
 ![azur5](https://user-images.githubusercontent.com/83448942/164961222-35d48e2b-e84f-4822-a3df-df97099278b2.png)
 
 
 
-resource of the project
+# Resource of the project
+
 
 ![azur6](https://user-images.githubusercontent.com/83448942/164961235-0737d298-f206-4fcf-9e3e-6e9094357c4e.png)
