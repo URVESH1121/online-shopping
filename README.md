@@ -1,5 +1,7 @@
 # online-shopping
 
-this is static online website.In this website we can buy a laptop and mobile etc,this website builte in html,css,javascript.
+This is static online shopping website.In this website we can buy a laptop and mobile etc,this website built in html,css,javascript.
 
-i have used azure static web app in this project.
+I have used azure static web app in this project to host.
+
+link of my project(azure static web app):- https://nice-water-065265810.1.azurestaticapps.net
