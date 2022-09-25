@@ -1,16 +1,14 @@
+fetch("https://raw.githubusercontent.com/akashhapani/online-shopping/main/product.json")
+  .then(response => response.json())
+  .then(data => {
 
-
-fetch('product.json')
-	.then(response => response.json())
-	.then(data => {
-
-        function display_product() {
-            var cards = "";
-          let all_products =data.all_products
-            for (let item of all_products) {
-              cards =
-                cards +
-                `
+    function display_product() {
+      var cards = "";
+      let all_products = data.all_products
+      for (let item of all_products) {
+        cards =
+          cards +
+          `
                   
                   <div class="shop_card">
                       <h2 class="card-title">   ${item.title}    </h2>
@@ -25,14 +23,14 @@ fetch('product.json')
                    </div> 
                   
                   `;
-            }
-            // End of for loop , injecting all cards into  shop_products section
-            document.getElementById("shop_products").innerHTML = cards;
-          }
-          display_product();
-    })
-	.catch(err => console.error(err));
-    
+      }
+      // End of for loop , injecting all cards into  shop_products section
+      document.getElementById("shop_products").innerHTML = cards;
+    }
+    display_product();
+  })
+  .catch(err => console.error(err));
+
 
 var cart_items = {};
 var total_price = 0;
