@@ -34,10 +34,17 @@
       
         {
           "id": 5,
-          "title": "Jeans",
-          "price": 5000,
-          "img": "https://images.unsplash.com/photo-1541085388148-a30647cab28f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
-          "info": " mens jenes , 38 size washable "
+          "title": "Smart Band",
+          "price": 7000,
+          "img": "https://m.media-amazon.com/images/I/61icsCcbdKL._SY450_.jpg",
+          "info": "Mi Smart Watch for Men Women Boys Girls "
+        },
+        {
+          "id": 6,
+          "title": " MacBook Pro",
+          "price": 129000,
+          "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp-spacegray-select-202206?wid=640&hei=595&fmt=jpeg&qlt=95&.v=1653493200207",
+          "info": "13‑inch MacBook Pro - Space Grey"
         }
     ]
 }
