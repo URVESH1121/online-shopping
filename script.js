@@ -8,8 +8,7 @@ fetch('product.json')
             var cards = "";
           let all_products =data.all_products
             for (let item of all_products) {
-              cards =
-                cards +
+              cards +=
                 `
                   
                   <div class="shop_card">
