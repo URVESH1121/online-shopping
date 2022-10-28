@@ -1,50 +1,60 @@
 {
-    "all_products": [
-        {
-          "id": 1,
-          "title": "Laptop ",
-          "price": 85000,
-          "img": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
-          "info": " Hp paviliean laptop, i7 processor  , 16gb ram, 500gb ssd, slim  lsptop  "
-        },
-      
-        {
-          "id": 2,
-          "title": "Mobile",
-          "price": 15000,
-          "img": "https://images.unsplash.com/photo-1529653762956-b0a27278529c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80",
-          "info": " Oppo Reno phone dark black 4gm ram & 128gb rom "
-        },
-      
-        {
-          "id": 3,
-          "title": "Watch",
-          "price": 30000,
-          "img": "https://images.unsplash.com/photo-1521485950395-bcfb8fc9bd06?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
-          "info": " Rolex for Royal watch   "
-        },
-      
-        {
-          "id": 4,
-          "title": "T-Shirt",
-          "price": 5000,
-          "img": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
-          "info": " cotton material  tshirt"
-        },
-      
-        {
-          "id": 5,
-          "title": "Smart Band",
-          "price": 7000,
-          "img": "https://m.media-amazon.com/images/I/61icsCcbdKL._SY450_.jpg",
-          "info": "Mi Smart Watch for Men Women Boys Girls "
-        },
-        {
-          "id": 6,
-          "title": " MacBook Pro",
-          "price": 129000,
-          "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp-spacegray-select-202206?wid=640&hei=595&fmt=jpeg&qlt=95&.v=1653493200207",
-          "info": "13‑inch MacBook Pro - Space Grey"
-        }
-    ]
+  "all_products": [
+    {
+      "id": 0,
+      "title": "Laptop ",
+      "price": 85000,
+      "img": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "info": " Hp paviliean laptop, i7 processor  , 16gb ram, 500gb ssd, slim  lsptop  "
+    },
+    {
+      "id": 1,
+      "title": "Mobile",
+      "price": 15000,
+      "img": "https://images.unsplash.com/photo-1529653762956-b0a27278529c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80",
+      "info": " Oppo Reno phone dark black 4gm ram & 128gb rom "
+    },
+    {
+      "id": 2,
+      "title": "Watch",
+      "price": 30000,
+      "img": "https://images.unsplash.com/photo-1521485950395-bcfb8fc9bd06?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "info": " Rolex for Royal watch   "
+    },
+    {
+      "id": 3,
+      "title": "T-Shirt",
+      "price": 5000,
+      "img": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "info": " cotton material  tshirt"
+    },
+    {
+      "id": 4,
+      "title": "Smart Band",
+      "price": 7000,
+      "img": "https://m.media-amazon.com/images/I/61icsCcbdKL._SY450_.jpg",
+      "info": "Mi Smart Watch for Men Women Boys Girls "
+    },
+    {
+      "id": 5,
+      "title": " MacBook Pro",
+      "price": 129000,
+      "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp-spacegray-select-202206?wid=640&hei=595&fmt=jpeg&qlt=95&.v=1653493200207",
+      "info": "13‑inch MacBook Pro - Space Grey"
+    },
+    {
+      "id": 6,
+      "title": "Amazon Echo Dot",
+      "price": 1549,
+      "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSz-T8xAbwVJCAbhtCk9BtCzU3A0LZYQ41eJbMcKJaKfCiHZg-OHylblr6u7DYu0MoBXbft0rlYxTQ_D5yCUHm-EMNR6k0aCQ",
+      "info": "Echo Dot (3rd Gen)"
+    },
+    {
+      "id": 7,
+      "title": "OnePlus 10R 5G",
+      "price": 32999,
+      "img": "https://www.reliancedigital.in/medias/One-Plus-10R-Mobile-Phone-492850198-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMjk2NDV8aW1hZ2UvanBlZ3xpbWFnZXMvaDE4L2g1OS85ODczOTc4MzI3MDcwLmpwZ3w2ZDk2NjVlNTcwZmY3NDFkNjhjNDIxZWUzNTExMjkyYWM2MTIwZDRkMWNlYTc1YTkwOTk3MjQyOGUyZTA2YTVl",
+      "info": "OnePlus 10R 5G 128 GB, 8 GB RAM, Forest Green, Mobile Phone"
+    }
+  ]
 }
